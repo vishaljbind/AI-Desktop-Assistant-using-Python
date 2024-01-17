@@ -1,0 +1,69 @@
+HELLO I AM SHAKTI (AI DESKTOP ASSISTANT)
+
+Commands:
+
+Open Notepad
+Purpose: Opens the Notepad application.
+
+Chat Mode
+Purpose: Activates the chat mode for conversing with the assistant.
+
+Play Music
+Purpose: Plays music from the specified directory.
+
+Open Command Prompt
+Purpose: Opens the Command Prompt.
+
+Help
+Purpose: Displays the help file.
+
+Open Camera
+Purpose: Opens the system's camera.
+
+IP Address
+Purpose: Retrieves and announces the system's IP address.
+
+Wikipedia
+Purpose: Searches and reads a summary from Wikipedia based on the user's query.
+
+Volume Up/Down/Mute
+Purpose: Controls the system's audio volume.
+
+Close App
+Purpose: Closes the currently active application.
+
+Open YouTube/StackOverflow/Google
+Purpose: Opens the specified website.
+
+Send Message
+Purpose: Sends a predefined message to a specified phone number.
+
+Play Song on YouTube
+Purpose: Plays a specific song on YouTube.
+
+Restart the System
+Purpose: Initiates a system restart.
+
+Shutdown the System
+Purpose: Initiates a system shutdown.
+
+Take Screenshot
+Purpose: Captures a screenshot and saves it.
+
+Open [Application Name]
+Purpose: Opens the specified application.
+
+Temperature/Weather
+Purpose: Fetches and announces the current temperature or weather information.
+
+The Time
+Purpose: Announces the current time.
+
+You Can Sleep
+Purpose: Puts the assistant into sleep mode.
+
+Wake Up
+Purpose: Activates the assistant to start functioning.
+
+Good Bye
+Purpose: Shuts down the assistant.
